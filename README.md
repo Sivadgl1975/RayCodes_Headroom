@@ -82,8 +82,6 @@ To verify the setup worked correctly:
     *   Initializes headroom's native `SmartCrusher` to compress the executor's output.
     *   Passes only the compressed output to `granite4.1:3b` for a code review.
     *   Outputs comparative token savings and saves the entire log to `output.md`.
-*   `output_idea.md`: A mock/pre-run structure outlining the expected format of the generated `output.md` report.
-
 ---
 
 ## 💡 Use Cases
