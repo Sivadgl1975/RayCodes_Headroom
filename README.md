@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://youtu.be/c25Sv1bXijs">
-    <img src="https://img.youtube.com/vi/c25Sv1bXijs/0.jpg" alt="I Slashed 90% Tokens for My Multi-Agent | HEADROOM AI + MiniCPM5 1B">
-  </a>
-  <h3>📺 <a href="https://youtu.be/c25Sv1bXijs">Watch the full tutorial on YouTube</a></h3>
-</div>
+
 
 # I Slashed 90% Tokens for My Multi-Agent | HEADROOM AI + MiniCPM5 1B
 
